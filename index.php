@@ -7,7 +7,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
-    <title>Iconsolve - Tech Consultants & Trainers</title>
+    <title>Iconsolve - Your Reliable Tech Consultants</title>
     <meta name="description" content="Iconsolve - Tech Consultants & Trainers">
 
 
