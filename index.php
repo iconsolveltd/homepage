@@ -82,12 +82,15 @@
  ?>
 
 
+
     <!-- Header -->
     <header class="">
-        <!-- <div class="container-fluid alert-warning" role="alert">
-            <h4 class="alert-heading"><small><b>iConsolve Tech Learning Center</b> </small> </h4>
-            <h6><small>Fortify yourself with the tools and skills you need to be productive anywhere in the world. <br> <a href="https://iconsolve.com/itlc"><b> Learn More</b></a></small> </h6>
-        </div> -->
+        <div class="container-fluid alert-warning" role="alert">
+            <h6>
+                <small style="color: #000000" class=""><b>Get a .gm domain <a class="" data-toggle="modal" data-target="#myModal">Click Here To Register</b></a></small> |
+                <small style="color: #000000" class=""><b>Cloud Hosting <a href="https://iconsolve.supersite2.myorderbox.com/cloudhosting.php" target="_blank"></b><b> Click Here To Buy</b></a></small>
+            </h6>
+        </div>
         <div class="container-fluid" style="backgroun: #D3D4D4;">
            <div class="row">
              <div class="col-md-4 col-xs-12 text-center" style="border-right: 5px solid #fd930c">
@@ -453,8 +456,8 @@
             </div>
             <br><br>
             <div>
-                <a class="btn btn-default btn-sm">Coming Soon</a>
-                <!-- <a class="btn btn-default btn-sm" href="https://sosschool.gm/" target="_blank" >Visit</a> -->
+                <!-- <a class="btn btn-default btn-sm">Coming Soon</a> -->
+                <a class="btn btn-default btn-sm" href="https://sosschool.gm/" target="_blank" >Visit</a>
             </div>
           </div>
 
@@ -501,8 +504,8 @@
             </div>
             <br>
             <div>
-                <a class="btn btn-default btn-sm">Coming Soon</a>
-                <!-- <a class="btn btn-default btn-sm" href="https://uss.gm" target="_blank" >Visit</a> -->
+                <!-- <a class="btn btn-default btn-sm">Coming Soon</a> -->
+                <a class="btn btn-default btn-sm" href="https://uss.gm" target="_blank" >Visit</a>
             </div>
           </div>
 
@@ -622,6 +625,55 @@
 
             </div>
     </div> -->
+    <!-- Modal -->
+<div id="myModal" class="modal fade" role="dialog">
+  <div class="modal-dialog">
+
+    <!-- Modal content-->
+    <div class="modal-content">
+      <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal">&times;</button>
+        <h4 class="modal-title">Register for a .GM Domain Name</h4>
+      </div>
+      <div class="modal-body">
+        <form action="<?php echo  base_url('home') ?>/contact.php" method="POST">
+            <div class="form-group">
+                <input type="email" class="form-control" name="buyeremail" placeholder="Enter Buyer Email Address" required>
+            </div>
+            <div class="form-group">
+                <input type="text" class="form-control" name="buyerphone" placeholder="Enter Buyer Phone Number" required>
+            </div>
+            <div class="form-group">
+                <input type="text" class="form-control" name="domainname" placeholder="Enter Domain Name. Example: iconsolve.gm" required>
+            </div>
+             <div class="form-group">
+                <input type="text" class="form-control" name="companyname" placeholder="Enter Company / Organization Name" required>
+            </div>
+            <div class="form-group">
+                <input type="text" class="form-control" name="adminname" placeholder="Enter Domain Admin Contact Person Name" required>
+            </div>
+            <div class="form-group">
+                <input type="text" class="form-control" name="adminemail" placeholder="Enter Domain Admin Contact Person's Email" required>
+            </div>
+            <div class="form-group">
+                <input type="text" class="form-control" name="ns1" placeholder="Enter Name Server #1" required>
+            </div>
+            <div class="form-group">
+                <input type="text" class="form-control" name="ns2" placeholder="Enter Name Server #2" required>
+            </div>
+            <div class="checkbox">
+                <label><input type="checkbox" required> Confirm the information provided is accurate</label>
+            </div>
+            <button type="submit" class="btn btn-default">Submit</button>
+        </form> 
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+      </div>
+    </div>
+
+  </div>
+</div>
 <hr>
     <div class="container-fluid" style="background: #;">
         <div class="row">
