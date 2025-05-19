@@ -115,7 +115,7 @@
                  <div class="col-lg-4 col-md-6 col-sm-12 col-xs-12" style="padding: 15px;">
                    <div style="color: black">
                        <span class="skills" style="font-weight: bold;">What we do</span><br><br>
-                       <span class="skills"><small>We provide services in Data Analysis & Dashboard, IT Training, Website & Web App Development, Cyber Threat Investigation, and Online Database Development</small> </span>
+                       <span class="skills"><small>We provide services in Website & Web App Development, Online Database Development, Data Analysis & Dashboard, IT Training, and Cyber Threat Investigation </small> </span>
                    </div>
                  </div>
 
@@ -167,7 +167,7 @@
             <div style="color: black">
                 <span class="skills" style="font-weight: bold;"><small>iSARMS </small></span><br><br>
                 <span class="skills">
-                <small> Iconsolve School Administration and Report Mgmt System (iSARMS) is a web app that manages school, students attendance and reports. Accessible to teachers, parents, students, and school staff</small>
+                <small> Iconsolve School Administration and Report Mgmt System (iSARMS) is a cloud based web app that manages school, students attendance and reports. Accessible to teachers, parents, students, and school staff</small>
                 </span>
             </div>
             <br>
@@ -179,14 +179,14 @@
 
         <div class="col-lg-3 col-md-3 col-sm-4 col-xs-12" style="padding: 15px;">
             <div style="color: black">
-                <span class="skills" style="font-weight: bold;"><small>iPHARMS</small></span><br><br>
+                <span class="skills" style="font-weight: bold;"><small>iHRAMS</small></span><br><br>
                 <span class="skills">
-                <small> Iconsolve Pharmacy Administration & Report Management System (iPMS) is a web app that focuses on keeping track and sales of medical & drug items, accounting,  stocks monitoring and balances.</small>
+                <small> Iconsolve Human Resource Administration & Management System (iHRAMS) is a cloud based web app that manages all HR activities including employees, attendance, loans, leaves, assets, accessible on all platforms.</small>
                 </span>
             </div>
             <br>
             <div>
-                <a class="btn btn-default btn-sm" href="https://ipharms.org/info.php" target="_blank" >Learn More</a>
+                <a class="btn btn-default btn-sm" href="mailto:ceo@iconsolve.com" target="_blank" >Request A Demo</a>
                 <!-- <a class="btn btn-default btn-sm" href="mailto:ceo@iconsolve.com" target="_blank" >Request A Demo</a> -->
             </div>
         </div>
@@ -195,7 +195,7 @@
             <div style="color: black">
                 <span class="skills" style="font-weight: bold;"><small>iSTAMS</small></span><br><br>
                 <span class="skills">
-                <small> Iconsolve Staff Training Administration Management System (iSTMS) is a web app that records staff trainings records for all companies' HR department. It allows HR to track their development progress</small>
+                <small> Iconsolve Staff Training Administration Management System (iSTMS) is a clould based web app that records staff trainings records for all companies' HR department. It allows HR to track their development progress</small>
                 </span>
             </div>
             <br>
@@ -206,14 +206,14 @@
 
         <div class="col-lg-3 col-md-3 col-sm-4 col-xs-12" style="padding: 15px;">
             <div style="color: black">
-                <span class="skills" style="font-weight: bold;"><small>iCARMS</small></span><br><br>
+                <span class="skills" style="font-weight: bold;"><small>iCARMS and iPHARMS</small></span><br><br>
                 <span class="skills">
-                <small> Iconsolve Clinic Administration & Reporting Management System (iCARMS) for clinics. This software is an online cloud web application that is accessible on all platforms, web browsers and devices. </small>
+                <small> Iconsolve Clinic Administration & Reporting Management System (iCARMS) for clinics with Iconsolve Pharmacy Administration & Report Management System (iPMS) accessible on all platforms, web browsers and devices. </small>
                 </span>
             </div>
             <br>
             <div>
-                <a class="btn btn-default btn-sm" href="mailto:ceo@iconsolve.com" target="_blank" >Request A Demo</a>
+                <a class="btn btn-default btn-sm" href="https://ipharms.org/info.php" target="_blank" >Learn More</a>
             </div>
         </div>
 
@@ -233,9 +233,9 @@
     </div>
 <hr>
     <div class="row" style="padding: 20px;">
-        <h5 class="" style="color: #fd930c; font-weight: bold;">OUR CLIENTS - Companies</h5>
+        <h5 class="" style="color: #fd930c; font-weight: bold;">COMPANIES</h5>
           
-            <div class="col-lg-3 col-md-3 col-sm-4 col-xs-12" style="padding: 15px;">
+            <!-- <div class="col-lg-3 col-md-3 col-sm-4 col-xs-12" style="padding: 15px;">
                 <div style="color: black">
                     <span class="skills" style="font-weight: bold;"><small> Stop Step Phamarcy</small></span><br><br>
                     <span class="skills">
@@ -247,10 +247,9 @@
                 </div>
                 <br>
                 <div>
-                    <!-- <a class="btn btn-default btn-sm" href="" target="_blank" >Coming Soon</a><hr class=""> -->
                     <a class="btn btn-default btn-sm" href="https://stopsteppharmacy.com" target="_blank" >Visit</a>
                 </div>
-            </div>
+            </div> -->
 
             <div class="col-lg-3 col-md-3 col-sm-4 col-xs-12" style="padding: 15px;">
                   <div style="color: black">
@@ -300,11 +299,42 @@
                       <a class="btn btn-default btn-sm" href="https://nursingcouncil.gm" target="_blank" >Visit</a>
                 </div>
             </div>
+
+            <div class="col-lg-3 col-md-3 col-sm-4 col-xs-12" style="padding: 15px;">
+            <div style="color: black">
+                <span class="skills" style="font-weight: bold;"><small> Gambia Wedding Planners</small></span><br><br>
+                <span class="skills">
+                <small> Web Design & Development </small><br><br>
+                <small> Cloud Hosting</small><br><br>
+                <small> Technical Support</small><br>
+                <small> - </small><br><br>
+                </span>
+            </div>
+            <br>
+            <div>
+                <a class="btn btn-default btn-sm" href="https://gambiaweddingplanners.com/" target="_blank" >Visit</a>
+            </div>
+        </div>
    
        
     </div>
 
     <div class="row" style="padding: 20px;">
+        <div class="col-lg-3 col-md-3 col-sm-4 col-xs-12" style="padding: 15px;">
+            <div style="color: black">
+                <span class="skills" style="font-weight: bold;"><small>Network of AIDS Services </small></span><br><br>
+                <span class="skills">
+                <small> Web Design & Development </small><br><br>
+                <small> Cloud Hosting</small><br><br>
+                <small> Technical Support</small><br>
+                <small> - </small>
+                </span>
+            </div>
+            <br><br>
+            <div>
+                <a class="btn btn-default btn-sm" href="https://nasogambia.org/" target="_blank" >Visit</a>
+            </div>
+        </div>
         <div class="col-lg-3 col-md-3 col-sm-4 col-xs-12" style="padding: 15px;">
             <div style="color: black">
                 <span class="skills" style="font-weight: bold;"><small> Afribadu Energy Group</small></span><br><br>
@@ -340,7 +370,7 @@
             </div>
         </div>
   
-        <div class="col-lg-3 col-md-3 col-sm-4 col-xs-12" style="padding: 15px;">
+        <!-- <div class="col-lg-3 col-md-3 col-sm-4 col-xs-12" style="padding: 15px;">
             <div style="color: black">
                 <span class="skills" style="font-weight: bold;"><small>La Salvia MD </small></span><br><br>
                 <span class="skills">
@@ -354,7 +384,7 @@
             <div>
                 <a class="btn btn-default btn-sm" href="https://lasalviamd.com/" target="_blank" >Visit</a>
             </div>
-        </div>
+        </div> -->
 
         <div class="col-lg-3 col-md-3 col-sm-4 col-xs-12" style="padding: 15px;">
             <div style="color: black">
@@ -375,21 +405,7 @@
         </div>
     </div>
     <div class="row" style="padding: 20px;">
-        <div class="col-lg-3 col-md-3 col-sm-4 col-xs-12" style="padding: 15px;">
-            <div style="color: black">
-                <span class="skills" style="font-weight: bold;"><small>Network of AIDS Services </small></span><br><br>
-                <span class="skills">
-                <small> Web Design & Development </small><br><br>
-                <small> Cloud Hosting</small><br><br>
-                <small> Technical Support</small><br>
-                <small> - </small>
-                </span>
-            </div>
-            <br><br>
-            <div>
-                <a class="btn btn-default btn-sm" href="https://nasogambia.org/" target="_blank" >Visit</a>
-            </div>
-        </div>
+
           
         <div class="col-lg-3 col-md-3 col-sm-4 col-xs-12" style="padding: 15px;">
             <div style="color: black">
@@ -422,26 +438,11 @@
                 <a class="btn btn-default btn-sm" href="https://myjamano.com/gm/" target="_blank" >Visit</a>
             </div>
         </div> -->
-        <div class="col-lg-3 col-md-3 col-sm-4 col-xs-12" style="padding: 15px;">
-            <div style="color: black">
-                <span class="skills" style="font-weight: bold;"><small> Gambia Wedding Planners</small></span><br><br>
-                <span class="skills">
-                <small> Web Design & Development </small><br><br>
-                <small> Cloud Hosting</small><br><br>
-                <small> Technical Support</small><br>
-                <small> - </small><br><br>
-                </span>
-            </div>
-            <br>
-            <div>
-                <a class="btn btn-default btn-sm" href="https://gambiaweddingplanners.com/" target="_blank" >Visit</a>
-            </div>
-        </div>
 
     </div>
 <hr>
     <br>
-    <h5 class="" style="color: #fd930c; font-weight: bold;">OUR CLIENTS - Schools </h5>
+    <h5 class="" style="color: #fd930c; font-weight: bold;">SCHOOLS </h5>
 
     <div class="row" style="backgroun: #D3D4D4; padding: 20px;">
         <div class="col-lg-3 col-md-3 col-sm-4 col-xs-12" style="padding: 15px;">
