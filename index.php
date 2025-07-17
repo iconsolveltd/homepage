@@ -235,28 +235,29 @@
     <div class="row" style="padding: 20px;">
         <h5 class="" style="color: #fd930c; font-weight: bold;">COMPANIES</h5>
           
-            <!-- <div class="col-lg-3 col-md-3 col-sm-4 col-xs-12" style="padding: 15px;">
+            <div class="col-lg-3 col-md-3 col-sm-4 col-xs-12" style="padding: 15px;">
                 <div style="color: black">
-                    <span class="skills" style="font-weight: bold;"><small> Stop Step Phamarcy</small></span><br><br>
+                    <span class="skills" style="font-weight: bold;"><small> Care 4 Life Clinic</small></span><br><br>
                     <span class="skills">
                     <small> Web Design & Development </small><br><br>
-                    <small> Programming & Application Development</small> <br><br>
-                    <small> Web Store Development</small><br><br>
+                    <small> iCARMS </small> <br><br>
+                    <small> iPHARMS</small><br><br>
                     <small> Cloud Hosting </small>
                     </span>
                 </div>
                 <br>
                 <div>
-                    <a class="btn btn-default btn-sm" href="https://stopsteppharmacy.com" target="_blank" >Visit</a>
+                     <!-- <a class="btn btn-default btn-sm">Coming Soon</a> -->
+                    <a class="btn btn-default btn-sm" href="https://care4lifeclinic.gm" target="_blank" >Visit</a>
                 </div>
-            </div> -->
+            </div>
 
             <div class="col-lg-3 col-md-3 col-sm-4 col-xs-12" style="padding: 15px;">
                   <div style="color: black">
                       <span class="skills" style="font-weight: bold;"><small> Gambia International Airline</small></span><br><br>
                       <span class="skills">
                         <small> Web Design & Development </small><br><br>
-                        <small> Programming & Application Development</small> <br><br>
+                        <small> iSTAMS</small> <br><br>
                         <small> Cloud Hosting</small><br><br>
                         <small> Technical Support</small>
                       </span>
@@ -299,8 +300,25 @@
                       <a class="btn btn-default btn-sm" href="https://nursingcouncil.gm" target="_blank" >Visit</a>
                 </div>
             </div>
+    </div>
 
-            <div class="col-lg-3 col-md-3 col-sm-4 col-xs-12" style="padding: 15px;">
+    <div class="row" style="padding: 20px;">
+        <!-- <div class="col-lg-3 col-md-3 col-sm-4 col-xs-12" style="padding: 15px;">
+            <div style="color: black">
+                <span class="skills" style="font-weight: bold;"><small>Network of AIDS Services </small></span><br><br>
+                <span class="skills">
+                <small> Web Design & Development </small><br><br>
+                <small> Cloud Hosting</small><br><br>
+                <small> Technical Support</small><br>
+                <small> - </small>
+                </span>
+            </div>
+            <br><br>
+            <div>
+                <a class="btn btn-default btn-sm" href="https://nasogambia.org/" target="_blank" >Visit</a>
+            </div>
+        </div> -->
+        <div class="col-lg-3 col-md-3 col-sm-4 col-xs-12" style="padding: 15px;">
             <div style="color: black">
                 <span class="skills" style="font-weight: bold;"><small> Gambia Wedding Planners</small></span><br><br>
                 <span class="skills">
@@ -315,26 +333,7 @@
                 <a class="btn btn-default btn-sm" href="https://gambiaweddingplanners.com/" target="_blank" >Visit</a>
             </div>
         </div>
-   
-       
-    </div>
-
-    <div class="row" style="padding: 20px;">
-        <div class="col-lg-3 col-md-3 col-sm-4 col-xs-12" style="padding: 15px;">
-            <div style="color: black">
-                <span class="skills" style="font-weight: bold;"><small>Network of AIDS Services </small></span><br><br>
-                <span class="skills">
-                <small> Web Design & Development </small><br><br>
-                <small> Cloud Hosting</small><br><br>
-                <small> Technical Support</small><br>
-                <small> - </small>
-                </span>
-            </div>
-            <br><br>
-            <div>
-                <a class="btn btn-default btn-sm" href="https://nasogambia.org/" target="_blank" >Visit</a>
-            </div>
-        </div>
+    
         <div class="col-lg-3 col-md-3 col-sm-4 col-xs-12" style="padding: 15px;">
             <div style="color: black">
                 <span class="skills" style="font-weight: bold;"><small> Afribadu Energy Group</small></span><br><br>
@@ -407,7 +406,7 @@
     <div class="row" style="padding: 20px;">
 
           
-        <div class="col-lg-3 col-md-3 col-sm-4 col-xs-12" style="padding: 15px;">
+        <!-- <div class="col-lg-3 col-md-3 col-sm-4 col-xs-12" style="padding: 15px;">
             <div style="color: black">
                 <span class="skills" style="font-weight: bold;"><small> AAFWA</small></span><br><br>
                 <span class="skills">
@@ -421,7 +420,7 @@
             <div>
                 <a class="btn btn-default btn-sm" href="https://aaafwa.org/" target="_blank" >Visit</a>
             </div>
-        </div>
+        </div> -->
 
         <!-- <div class="col-lg-3 col-md-3 col-sm-4 col-xs-12" style="padding: 15px;">
             <div style="color: black">
@@ -449,7 +448,7 @@
             <div style="color: black">
                 <span class="skills" style="font-weight: bold;"><small>SOS Hermann Gmeiner School The Gambia</small></span><br><br>
                 <span class="skills">
-                <small> iSAMRS</small><br><br>
+                <small> iSARMS</small><br><br>
                 <small> Web Design & Development </small><br><br>
                 <small> Cloud Hosting</small><br><br>
                 <small> Technical Support</small><br>
@@ -466,7 +465,7 @@
             <div style="color: black">
                 <span class="skills" style="font-weight: bold;"><small>Al-Furqan Islamic International School</small></span><br><br>
                 <span class="skills">
-                <small> iSAMRS</small><br><br>
+                <small> iSARMS</small><br><br>
                 <small> Web Design & Development </small><br><br>
                 <small> Cloud Hosting</small><br><br>
                 <small> Technical Support</small><br>
@@ -481,7 +480,7 @@
             <div style="color: black">
                 <span class="skills" style="font-weight: bold;"><small>Grace Baptist International School Senegal</small></span><br><br>
                 <span class="skills">
-                <small> iSAMRS</small><br><br>
+                <small> iSARMS</small><br><br>
                 <small> Web Design & Development </small><br><br>
                 <small> Cloud Hosting</small><br><br>
                 <small> Technical Support</small><br>
@@ -497,7 +496,7 @@
             <div style="color: black">
                 <span class="skills" style="font-weight: bold;"><small> Universal Sata International School</small></span><br><br>
                 <span class="skills">
-                <small> iSAMRS</small><br><br>
+                <small> iSARMS</small><br><br>
                 <small> Web Design & Development </small><br><br>
                 <small> Cloud Hosting</small> <br><br>
                 <small> Techical Support</small><br> <br>

@@ -63,7 +63,7 @@
         <?php
         }else { ?>
          <script language="javascript" type="text/javascript">
-          alert('Message failed. Please, send an email to gordon@template-help.com');
+          alert('Message failed. Please try again');
           window.location.href = 'index.php';
          </script>
         <?php } ?>
